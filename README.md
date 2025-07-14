@@ -23,7 +23,7 @@ Learn more about configuring Vite at [vitejs.dev](https://vitejs.dev/).
 
 This project is a personal website designed to showcase my skills, projects, and progress as a developer.  
 It serves as a portfolio and a playground for experimenting with modern web technologies.
-
+12312323
 **Key Features:**
 - Built with Vite for fast development and hot reloading
 - Modular and maintainable code structure
